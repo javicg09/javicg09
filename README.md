@@ -2,7 +2,7 @@
 
 🎓 **Estudiante de Ingeniería Informática**  
 💻 Apasionado por el desarrollo backend, la arquitectura de software y la automatización.  
-🚀 En constante aprendizaje sobre tecnologías web, APIs REST y buenas prácticas de programación.
+🚀 En constante aprendizaje sobre tecnologías web y buenas prácticas de programación.
 
 ---
 
@@ -31,13 +31,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📂 Proyectos destacados
-
-- 🐺 **[La posada del lobo blanco](https://github.com/tuusuario/la-posada-del-lobo-blanco)** — API REST en TypeScript con Express y Mongoose.  
-- ⚔️ **The Witcher Inventory System** — Aplicación orientada a objetos con TypeScript, Inquirer.js y Lowdb.
 
 ## 📊 Estadísticas de GitHub
 
